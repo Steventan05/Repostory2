@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    margin: 0;
+}
+
+header {
+    background: #4f46e5;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+main {
+    max-width: 800px;
+    margin: 2rem auto;
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+}
+
+.upload {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+button {
+    background: #4f46e5;
+    color: white;
+    border: none;
+    padding: 0.6rem 1.4rem;
+    border-radius: 6px;
+}
+
+.materials ul {
+    list-style: none;
+    padding: 0;
+}
+
+.materials li {
+    padding: 0.8rem;
+    border-bottom: 1px solid #ddd;
+    font-weight: bold;
+}
+
+.note {
+    font-size: 0.8rem;
+    opacity: 0.6;
+}
